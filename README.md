@@ -73,6 +73,9 @@ bash termux.sh start
 ```bash
 bash termux.sh stop
 ```
+## Screenshots
+
+![lien searc](https://i.ibb.co/zHn55SLJ/snapix-app-IMG-20260929-105755-mockup.png)
 
 ## Credits
 
